@@ -6,9 +6,9 @@
 
 Ссылки на эти машины:
 
-Vbox - https://drive.google.com/file/d/12YPUinU0h_z6dekbOlCjKPMuiFKpcWPm/view?usp=share_link
+Vbox - https://drive.google.com/file/d/1_GR5v5K1w-Jwwghtwa2H5Mx55odZogh_/view?usp=share_link
 
-Qemu(диск) - https://drive.google.com/file/d/13QsGAqw9-MjciLBPV0nHUHt5iXtjQ0uV/view?usp=share_link
+Qemu(диск) - https://drive.google.com/file/d/1C6Xm0L_8XeZNNK-lIDk4-S_DN0CrkROQ/view?usp=share_link
 
 Однако, никто не запрещает создать самостоятельно машину и, используя данный репозиторий, начать пользоваться программой, добавив пользователей в базу данных из папки /users проекта.
 
